@@ -1,0 +1,6 @@
+{
+  "name": "استراتژی مذاکره دارویی و پایلوت هوش مصنوعی",
+  "description": "سامانه ارتقای تاب‌آوری عملیاتی، کاهش خواب سرمایه در توسعه ژنریک و غربالگری هوشمند سمیت دارویی (DILI) ویژه هلدینگ‌های دارویی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
